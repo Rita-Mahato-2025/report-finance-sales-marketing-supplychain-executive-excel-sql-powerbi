@@ -3,7 +3,7 @@
 
 _An urgent need for a dedicated analytics system to reduce guesswork and improve business decisions._
 
-**Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiYmUwOWZjNGUtMTk2OS00MmZlLThjOWItZmQxYjk2MDljNmFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiYjQxMjk5NzEtNzBlNi00ZWY4LTk1MTItYmE5NDU1MmY0ZGY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ---
